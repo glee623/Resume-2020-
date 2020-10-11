@@ -7,6 +7,7 @@
 ---
 소속 : 소프트웨어 융합대학   
 전공 : 스마트IoT   
+
 사용가능 언어  
 1. Java   
 2. Python   
@@ -30,3 +31,8 @@
 |데이터베이스|SQL 데이터베이스|3|
 |알고리즘|자료구조의 다음버전인 알고리즘|3|
 |오픈소스SW의 이해|github등 다양한 오픈소스|3|
+
+
+github address: [glee623][github]
+
+[github]:http://github.com/glee623
